@@ -1,0 +1,9 @@
+File splitting:
+Project > package(想像成 類別庫, 推薦命名範例ex: pack1, pack2..., 放很多類別, 其實就是在project之下的資料夾) > file(程式本體 and 類別)
+
+Example for grammar in file, if I will take data of some package:
+package Ex12_4; // took package
+
+public class Ex12_4 {
+    
+}
