@@ -1,6 +1,6 @@
-package Ex12_12;
+package Ex12_12A.Ex12_12b;
 
-import Ex12_12.Sum;
+import Ex12_12A.Sum;
 
 public class Ex12_12b {
     public static void main(String args[]){

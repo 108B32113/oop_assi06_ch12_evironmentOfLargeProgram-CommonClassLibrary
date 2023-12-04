@@ -7,3 +7,10 @@ package Ex12_4; // took package
 public class Ex12_4 {
     
 }
+
+
+
+
+
+
+remember to record common built-class and method and word

@@ -1,4 +1,4 @@
-package Ex12_12;
+package Ex12_12A;
 
 public class Sum {
     private int sum = 0;
